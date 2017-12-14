@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    -webkit-user-select: none;
+    /*禁止用户选中*/
+    font-family: "微软雅黑";
+}
+.all{
+    width: 300px;
+    border: dashed 4px black;
+    margin: 50px auto;
+}
+.yi{
+    width: 300px;
+    margin: 0 auto;
+    background-color: #A7E5E4;
+    border-bottom:solid  1px green ;
+    border-top:solid  1px green ;
+    text-align: center;
+}
+.box{
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.ul,.ul2,.ul3{
+    width: 300px;
+    display: none;
+}
+li{
+    width: 300px;
+    height: 40px;
+    font-size: 14px;
+    color: #3E3E3E;
+    line-height: 40px;
+    text-align: center;
+    background-color: white;
+}
